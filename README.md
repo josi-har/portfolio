@@ -16,14 +16,14 @@ Compétences principales :
 - SQL (requêtes, gestion de bases de données)
 - Power BI (dashboards interactifs, rapports PDF)
 
----
+
 
 Structure du dépôt
 - **/python-projects** → notebooks et scripts Python pour l’analyse de données  
 - **/powerbi-reports** → rapports et dashboards Power BI exportés en PDF  
 - **/sql-scripts** → requêtes SQL et exemples de manipulation de bases  
 
----
+
 
 Projets
 1. Tableau de bord interactif pour suivre les Performance Commerciales en temps réel (Power BI)
@@ -37,17 +37,12 @@ Projets
 
 
 
-3. Étude marketing
-- Python pour l’analyse statistique  
-- Power BI pour la présentation des résultats  
 
----
 
 Objectif
 Ce portfolio illustre mes compétences en **data analysis** et mon intérêt pour la **business intelligence**.  
 Il est destiné à partager mes travaux avec recruteurs, collègues et passionnés de data.
 
----
 
 Contact
 - Email : josephina.harutyunyan@gmail.com 
