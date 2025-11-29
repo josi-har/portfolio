@@ -9,7 +9,7 @@ Ce dépôt regroupe mes projets en **Data Analysis** réalisés avec **Python**,
 L’objectif est de montrer mes compétences en nettoyage, exploration, visualisation et reporting de données.
 
 
-À propos de moi
+
 Je suis Data Analyst passionné par la transformation des données en insights utiles.  
 Compétences principales :
 - Python (pandas, matplotlib, seaborn, numpy)
